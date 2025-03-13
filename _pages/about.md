@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD student in Computer Science at <a href='#'>North Carolina State University</a>
 
 profile:
   align: right
