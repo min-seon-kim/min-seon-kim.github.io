@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in Computer Science at <a href='https://www.ncsu.edu'>North Carolina State University</a>, advised by Prof. Jung-Eun Kim. My research focuses on <b>`trustworthy and efficient machine learning`</b>, encompassing areas such as safety, privacy, and fairness in artificial intelligence systems.
+I am a PhD student in Computer Science at <a href='https://www.ncsu.edu'>North Carolina State University</a>, advised by Prof. Jung-Eun Kim. My research focuses on <b>trustworthy and efficient machine learning</b>, encompassing areas such as safety, privacy, and fairness in artificial intelligence systems.
 
 I received both my MSc in Industrial Engineering [Information Technology Management] and BSc in Data Science from Seoul National University of Science and Technology, advised by Prof. Hyuk-Yoon Kwon. My long-term goal is to build systems that can reliably connect humans with machine learning technologies in alignment with their intentions.
 
