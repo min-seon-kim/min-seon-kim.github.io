@@ -429,7 +429,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-joined-georgia-tech-as-a-visiting-scholar-from-june-2024-to-august-2024",
+            },},{id: "news-selected-for-the-innovation-talent-scholarship-by-the-korean-ministry-of-education",
+          title: 'Selected for the Innovation Talent Scholarship by the Korean Ministry of Education.',
+          description: "",
+          section: "News",},{id: "news-joined-georgia-tech-as-a-visiting-scholar-from-june-2024-to-august-2024",
           title: 'Joined Georgia Tech as a visiting scholar from June 2024 to August 2024....',
           description: "",
           section: "News",},{id: "news-two-papers-accepted-at-ieee-bigdata-2024-and-presented-in-washington-d-c",
