@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started the PhD program in Computer Science at <b>NC State University</b>, awarded the Graduate Merit Award.
+Started the PhD program in Computer Science at <b>NC State University</b>, awarded the <b>Graduate Merit Award</b>.
