@@ -429,16 +429,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-joined-georgia-tech-as-a-visiting-scholar-from-june-2024-to-august-2024",
+          title: 'Joined Georgia Tech as a visiting scholar from June 2024 to August 2024....',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-two-papers-accepted-at-ieee-bigdata-and-presented-in-washington-d-c",
+          title: 'Two papers accepted at IEEE BigData and presented in Washington, D.C.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-started-the-phd-program-in-computer-science-at-north-carolina-state-university-awarded-the-graduate-merit-award",
+          title: 'Started the PhD program in Computer Science at North Carolina State University, awarded...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
