@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-08-18
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Started the PhD program in Computer Science at North Carolina State University, awarded the Graduate Merit Award.
