@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Two papers accepted at <b>IEEE BigData</b> and presented in Washington, D.C.
+Two papers accepted at <b>IEEE BigData 2024</b> and presented in Washington, D.C.
 
 
 
