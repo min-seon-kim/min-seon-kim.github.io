@@ -1,0 +1,15 @@
+# source code (do not publish)
+src/
+public/
+package.json
+package-lock.json
+tailwind.config.js
+postcss.config.js
+
+# maps / dev artifacts
+*.map
+node_modules/
+build/
+
+# misc
+.DS_Store
